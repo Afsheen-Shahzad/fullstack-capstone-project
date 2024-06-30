@@ -1,4 +1,4 @@
-
+/*jshint esversion: 8 */
 
 
 router.get('/', async (req, res) => {
